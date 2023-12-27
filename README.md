@@ -1,0 +1,1 @@
+The problem is a used house prediction given a set of data comprising, features and target values. the problem is to predect the target value of a new house when the new features values of the house is provided to the learned model.
